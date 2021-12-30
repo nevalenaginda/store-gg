@@ -1,4 +1,4 @@
-import '../styles/globals.css';
+import '../styles/detail.css';
 import '../styles/homepage.css';
 import '../styles/utilities.css';
 import 'aos/dist/aos.css';
