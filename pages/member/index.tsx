@@ -6,7 +6,7 @@ function index() {
       <section className="sidebar">
         <div className="content pt-50 pb-30 ps-30">
           <div className="user text-center pb-50 pe-30">
-            <img src="/img/avatar-1.png" width="90" height="90" className="img-fluid mb-20" />
+            <img src="/img/avatar-1.png" width="90" height="90" className="img-fluid mb-20" alt=""/>
             <h2 className="fw-bold text-xl color-palette-1 m-0">Shayna Anne</h2>
             <p className="color-palette-2 m-0">shayna@anne.com</p>
           </div>
@@ -50,7 +50,7 @@ function index() {
                 />
               </svg>
               <p className="item-title m-0">
-                <a href="" className="text-lg text-decoration-none">Overview</a>
+                <a href="/" className="text-lg text-decoration-none">Overview</a>
               </p>
             </div>
             <div className="item mb-30">
@@ -106,7 +106,7 @@ function index() {
                 />
               </svg>
               <p className="item-title m-0">
-                <a href="" className="text-lg text-decoration-none">Messages</a>
+                <a href="/" className="text-lg text-decoration-none">Messages</a>
               </p>
             </div>
             <div className="item mb-30">
@@ -141,7 +141,7 @@ function index() {
                 </defs>
               </svg>
               <p className="item-title m-0">
-                <a href="" className="text-lg text-decoration-none">Card</a>
+                <a href="/" className="text-lg text-decoration-none">Card</a>
               </p>
             </div>
             <div className="item mb-30">
@@ -176,7 +176,7 @@ function index() {
                 </defs>
               </svg>
               <p className="item-title m-0">
-                <a href="" className="text-lg text-decoration-none">Rewards</a>
+                <a href="/" className="text-lg text-decoration-none">Rewards</a>
               </p>
             </div>
             <div className="item mb-30">
@@ -239,7 +239,7 @@ function index() {
                 />
               </svg>
               <p className="item-title m-0">
-                <a href="" className="text-lg text-decoration-none">Log Out</a>
+                <a href="/" className="text-lg text-decoration-none">Log Out</a>
               </p>
             </div>
           </div>
@@ -304,7 +304,7 @@ function index() {
               </div>
               <a
                 className="btn btn-get-started w-100 fw-medium text-xs text-center text-white rounded-pill"
-                href="#"
+                href="/#"
                 role="button"
               >
                 Get Started
