@@ -1,5 +1,6 @@
 import '../styles/detail.css';
 import '../styles/sign-in.css';
+import '../styles/sign-up.css';
 import '../styles/homepage.css';
 import '../styles/checkout.css';
 import '../styles/utilities.css';
